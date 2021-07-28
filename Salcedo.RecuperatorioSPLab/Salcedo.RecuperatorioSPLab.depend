@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1627478421 source:c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\utn.h
+
+1627474455 c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\linkedlist.h
+
+1627478421 c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\bicicletas.h
+
+1627479442 source:c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"controller.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 source:c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1627474455 source:c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627476532 source:c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	<string.h>
+	"controller.h"
+	"bicicletas.h"
+
+1627478468 c:\users\pc\desktop\proyectos\salcedo.recuperatoriosplab\controller.h
+	"LinkedList.h"
+
+1627478421 source:c:\users\pc\desktop\salcedo.recuperatoriosplab\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 c:\users\pc\desktop\salcedo.recuperatoriosplab\utn.h
+
+1627474455 c:\users\pc\desktop\salcedo.recuperatoriosplab\linkedlist.h
+
+1627478421 c:\users\pc\desktop\salcedo.recuperatoriosplab\bicicletas.h
+
+1627476532 source:c:\users\pc\desktop\salcedo.recuperatoriosplab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	<string.h>
+	"controller.h"
+	"bicicletas.h"
+
+1627478468 c:\users\pc\desktop\salcedo.recuperatoriosplab\controller.h
+	"LinkedList.h"
+
+1627474455 source:c:\users\pc\desktop\salcedo.recuperatoriosplab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627479793 source:c:\users\pc\desktop\salcedo.recuperatoriosplab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"controller.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 source:c:\users\pc\desktop\salcedo.recuperatoriosplab\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1627478421 source:c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\utn.h
+
+1627474455 c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\linkedlist.h
+
+1627479927 c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\bicicletas.h
+
+1627479993 source:c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	<string.h>
+	"controller.h"
+	"bicicletas.h"
+
+1627479993 c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\controller.h
+	"LinkedList.h"
+
+1627474455 source:c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627480032 source:c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"controller.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627439132 source:c:\users\pc\desktop\salcedo.tomas.recuperatoriosplaboratorio\salcedo.recuperatoriosplab\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
